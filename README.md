@@ -1,5 +1,7 @@
 # TregPilot_test
 
+source code: see [src](https://github.com/mangochiral/CRISPRa_Analysis_pipeline.git)
+
 Initial QC was done to remove low quality cells i.e, high mitochondrial percent (> 20%, decent cut for macrophage cells), and cells have less than 200 genes.
 	
 ```
@@ -21,5 +23,10 @@ Guide KO efficiency statistics
 
 ```
 Pre computed mean expression guide KO and NTCs records: tregfox3_guide_count_info.csv
-Guide efficiency statistics: 
+Guide efficiency statistics: guide_efficiency_stats.csv
+```
+
+Plots
+```
+In plots directory
 ```
